@@ -1,0 +1,55 @@
+{
+  "version": "0.3",
+  "kind": "app",
+  "generatedAt": "2026-11-18T08:27:21.238Z",
+  "item": {
+    "title": "zhe9505A1"
+  },
+  "map": {
+    "type": "webmap",
+    "path": "./map.json"
+  },
+  "app": {
+    "template": "nova-app",
+    "preset": "map",
+    "showHeader": false,
+    "theme": {
+      "mode": "light",
+      "accent": "default"
+    },
+    "layout": {},
+    "widgets": [
+      {
+        "id": "default-home",
+        "type": "home",
+        "slot": "top-left",
+        "config": {}
+      },
+      {
+        "id": "default-scale-bar",
+        "type": "scaleBar",
+        "slot": "bottom-left",
+        "config": {}
+      }
+    ],
+    "interactions": [],
+    "behaviors": []
+  },
+  "nova": {
+    "basename": "e3de5131-f315-4c60-8b6e-c8629b59fa59",
+    "presentationMode": "map",
+    "ownedGraphicsLayerIds": [],
+    "origin": {
+      "portalUrl": "https://www.arcgis.com",
+      "mapId": "output-bea644af-e384-40a1-98e9-858a3a94422d",
+      "mapName": "New Conversation",
+      "viewMode": "2d",
+      "capturedAt": "2026-11-18T08:27:21.237Z"
+    },
+    "sourceSelection": {
+      "mode": "all"
+    },
+    "unsupportedLayers": [],
+    "degradedFeatures": []
+  }
+}

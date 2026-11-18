@@ -1,0 +1,15 @@
+{
+  "kind": "arcgis-nova-deployable-app",
+  "version": "0.1",
+  "generatedAt": "2026-11-18T08:27:21.237Z",
+  "title": "zhe9505A1",
+  "authMode": "public",
+  "entry": "index.html",
+  "sourceAppPath": "outputs/apps/2026-11-18T08-27-21-e3de5131-f315-4c60-8b6e-c8629b59fa59/index.html",
+  "files": {
+    "app": "app.json",
+    "map": "map.json",
+    "runtime": "app.js",
+    "auth": "standalone-auth.js"
+  }
+}
